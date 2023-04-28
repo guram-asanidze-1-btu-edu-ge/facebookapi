@@ -32,3 +32,7 @@ then copy 2 month token and paste in Python script , now use OUTPUT token it's p
 
 !!! for public app you need image and secure link, I get from https://www.termsfeed.com, just sign up and get link mine is like:
 https://www.termsfeed.com/live/...-db7b-4d...
+
+
+
+EXAMPLE OF POST : https://www.facebook.com/saintereso13/posts/pfbid02nTui77PAPcgFaXpvqmnmeTn596mcSDmjzL7SadMsUZAmSZZoF3NYvunN4ifJcedPl
