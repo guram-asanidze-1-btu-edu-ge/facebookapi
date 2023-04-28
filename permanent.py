@@ -1,4 +1,4 @@
-import facebook
+import facebook   #for instalation  pip install facebook-sdk
 
 #paste your token on this website and get 2 month time limit token https://developers.facebook.com/tools/debug/accesstoken/ 
 graph = facebook.GraphAPI(access_token='...fefSYXdgtzUCVnRZA1sc8jkbU3gknY72mY9GZBx...', version="3.0") #enter your 2 month token here access_token=''
