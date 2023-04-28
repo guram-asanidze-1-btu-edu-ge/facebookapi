@@ -3,7 +3,7 @@ facebookapi for instalation use
 pip install facebook-sdk
 
 I show you how to create :
-1) Facebook app publish it (anyone can see post)  
+1) Facebook app and publish it (anyone can see post)  
 2) get permanent token (not just 2 month)
 
 https://developers.facebook.com/apps/ create your app
