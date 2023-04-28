@@ -7,7 +7,7 @@ id = '19537...' #your page ID where you are going to post
 pages_data = asafb.get_object('19537.../posts') #to get posts
 
 try:
-    asafb.put_object(id, 'photos', message= '👀 something : ...' +'\n'+ '#interesting #facts' ,url=kart) # url= replace kart by url in ''
+    asafb.put_object(id, 'photos', message= '👀 something : ...' +'\n'+ '#interesting #facts' ,url=kart) # url= replace kart by image url in ''
 except Exception as e:
     print(e)
 
